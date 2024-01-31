@@ -1,7 +1,7 @@
 import torch
 import torch.nn as nn
 import transformers
-
+from transformers.modeling_bart_utils import _expand_mask
 from model.ei_roberta import EIRoberta
 from model.dialogue_infer import DialogueInfer
 from model.dialogue_gcn.DialogueGCN import DialogueGCN
@@ -11,7 +11,7 @@ from model.cog_bart.modeling_bart import BartForERC
 from model.com_pm.compm import CoMPM
 from transformers import AutoConfig, AutoModel
 from model.dag_erc.DAG_ERC import DAGERC_fushion
-from transformers.modeling_bart_utils import _expand_mask
+
 class BaseModel(nn.Module):
     def __init__(self, cfg):
         super().__init__()
