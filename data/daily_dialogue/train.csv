@@ -1,41 +1,37 @@
-	Dialogue_ID	Utterance_ID	Utterance	Emotion	Act
-0	0	0	Say , Jim , how about going for a few beers after dinner ?	no emotion	3
-1	0	1	You know that is tempting but is really not good for our fitness .	no emotion	4
-2	0	2	What do you mean ? It will help us to relax .	no emotion	2
-3	0	3	Do you really think so ? I don't . It will just make us fat and act silly . Remember last time ?	no emotion	2
-4	0	4	I guess you are right.But what shall we do ? I don't feel like sitting at home .	no emotion	2
-5	0	5	I suggest a walk over to the gym where we can play singsong and meet some of our friends .	no emotion	3
-6	0	6	That's a good idea . I hear Mary and Sally often go there to play pingpong.Perhaps we can make a foursome with them .	happiness	4
-7	0	7	Sounds great to me ! If they are willing , we could ask them to go dancing with us.That is excellent exercise and fun , too .	happiness	1
-8	0	8	Good.Let ' s go now .	happiness	3
-9	0	9	All right .	happiness	4
-10	1	0	Can you do push-ups ?	no emotion	2
-11	1	1	Of course I can . It's a piece of cake ! Believe it or not , I can do 30 push-ups a minute .	no emotion	1
-12	1	2	Really ? I think that's impossible !	surprise	2
-13	1	3	You mean 30 push-ups ?	no emotion	2
-14	1	4	Yeah !	no emotion	1
-15	1	5	It's easy . If you do exercise everyday , you can make it , too .	no emotion	1
-16	2	0	Can you study with the radio on ?	no emotion	2
-17	2	1	No , I listen to background music .	no emotion	1
-18	2	2	What is the difference ?	no emotion	2
-19	2	3	The radio has too many comerials .	no emotion	1
-20	2	4	That's true , but then you have to buy a record player .	no emotion	1
-21	3	0	Are you all right ?	no emotion	2
-22	3	1	I will be all right soon . I was terrified when I watched them fall from the wire .	no emotion	1
-23	3	2	Don't worry.He is an acrobat 。	no emotion	1
-24	3	3	I see .	no emotion	1
-25	4	0	Hey John , nice skates . Are they new ?	no emotion	2
-26	4	1	Yeah , I just got them . I started playing ice hockey in a community league . So , I finally got myself new skates .	no emotion	1
-27	4	2	What position do you play ?	no emotion	2
-28	4	3	I ’ m a defender . It ’ s a lot of fun . You don ’ t have to be able to skate as fast on defense .	no emotion	1
-29	4	4	Yeah , you ’ re a pretty big guy . I play goalie , myself .	no emotion	1
-30	4	5	Oh , yeah ? Which team ?	surprise	2
-31	4	6	The Rockets .	no emotion	1
-32	4	7	Really ? I think we play you guys next week . Well , I have to go to practice . See you later .	surprise	3
-33	4	8	All right , see you later .	no emotion	4
-34	5	0	Hey Lydia , what are you reading ?	no emotion	2
-35	5	1	I ’ m looking at my horoscope for this month ! My outlook is very positive . It says that I should take a vacation to someplace exotic , and that I will have a passionate summer fling !	happiness	1
-36	5	2	What are you talking about ? Let me see that ... What are horoscopes ?	no emotion	2
-37	5	3	It ’ s a prediction of your month , based on your zodiac sign . You have a different sign for the month and date you were born in . I was born on April 15th , so I ’ m an Aries . When were you born ?	no emotion	2
-38	5	4	January 5th .	no emotion	1
-39	5	5	Let ’ s see . . . you ’ re a Capricorn . It says that you will be feeling stress at work , but you could see new , exciting developments in your love life . Looks like we ’ ll both have interesting summers !	happiness	1
+,Dialogue_ID,Utterance_ID,Utterance,Emotion,Act
+0,0,0,"Say , Jim , how about going for a few beers after dinner ? ",no emotion,3
+1,0,1, You know that is tempting but is really not good for our fitness . ,no emotion,4
+2,0,2, What do you mean ? It will help us to relax . ,no emotion,2
+3,0,3, Do you really think so ? I don't . It will just make us fat and act silly . Remember last time ? ,no emotion,2
+4,0,4, I guess you are right.But what shall we do ? I don't feel like sitting at home . ,no emotion,2
+5,0,5, I suggest a walk over to the gym where we can play singsong and meet some of our friends . ,no emotion,3
+6,0,6, That's a good idea . I hear Mary and Sally often go there to play pingpong.Perhaps we can make a foursome with them . ,happiness,4
+7,0,7," Sounds great to me ! If they are willing , we could ask them to go dancing with us.That is excellent exercise and fun , too . ",happiness,1
+8,0,8, Good.Let ' s go now . ,happiness,3
+9,0,9, All right . ,happiness,4
+10,1,0,Can you do push-ups ? ,no emotion,2
+11,1,1," Of course I can . It's a piece of cake ! Believe it or not , I can do 30 push-ups a minute . ",no emotion,1
+12,1,2, Really ? I think that's impossible ! ,surprise,2
+13,1,3, You mean 30 push-ups ? ,no emotion,2
+14,1,4, Yeah ! ,no emotion,1
+15,1,5," It's easy . If you do exercise everyday , you can make it , too . ",no emotion,1
+16,2,0,Can you study with the radio on ? ,no emotion,2
+17,2,1," No , I listen to background music . ",no emotion,1
+18,2,2, What is the difference ? ,no emotion,2
+19,2,3, The radio has too many comerials . ,no emotion,1
+20,2,4," That's true , but then you have to buy a record player . ",no emotion,1
+21,3,0,Are you all right ? ,no emotion,2
+22,3,1, I will be all right soon . I was terrified when I watched them fall from the wire . ,no emotion,1
+23,3,2, Don't worry.He is an acrobat 。 ,no emotion,1
+24,3,3, I see . ,no emotion,1
+25,4,0,"Hey John , nice skates . Are they new ? ",no emotion,2
+26,4,1," Yeah , I just got them . I started playing ice hockey in a community league . So , I finally got myself new skates . ",no emotion,1
+27,4,2, What position do you play ? ,no emotion,2
+28,4,3, I ’ m a defender . It ’ s a lot of fun . You don ’ t have to be able to skate as fast on defense . ,no emotion,1
+29,4,4," Yeah , you ’ re a pretty big guy . I play goalie , myself . ",no emotion,1
+30,4,5," Oh , yeah ? Which team ? ",surprise,2
+31,4,6, The Rockets . ,no emotion,1
+32,4,7," Really ? I think we play you guys next week . Well , I have to go to practice . See you later . ",surprise,3
+33,4,8," All right , see you later . ",no emotion,4
+34,5,0,"Hey Lydia , what are you reading ? ",no emotion,2
+35,5,1," I ’ m looking at my horoscope for this month ! My outlook is very positive . It says that I should take a vacation to someplace exotic , and that I will have a passionate summer fling ! ",happiness,1
