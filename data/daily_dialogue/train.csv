@@ -35,3 +35,41 @@
 33,4,8," All right , see you later . ",no emotion,4
 34,5,0,"Hey Lydia , what are you reading ? ",no emotion,2
 35,5,1," I ’ m looking at my horoscope for this month ! My outlook is very positive . It says that I should take a vacation to someplace exotic , and that I will have a passionate summer fling ! ",happiness,1
+36,5,2, What are you talking about ? Let me see that ... What are horoscopes ? ,no emotion,2
+37,5,3," It ’ s a prediction of your month , based on your zodiac sign . You have a different sign for the month and date you were born in . I was born on April 15th , so I ’ m an Aries . When were you born ? ",no emotion,2
+38,5,4, January 5th . ,no emotion,1
+39,5,5," Let ’ s see . . . you ’ re a Capricorn . It says that you will be feeling stress at work , but you could see new , exciting developments in your love life . Looks like we ’ ll both have interesting summers ! ",happiness,1
+40,5,6," That ’ s bogus . I don't feel any stress at work , and my love life is practically nonexistent . This zodiac stuff is all a bunch of nonsense . ",no emotion,1
+41,5,7," No , it ’ s not , your astrology sign can tell you a lot about your personality . See ? It says that an Aries is energetic and loves to socialize . ",no emotion,1
+42,5,8," Well , you certainly match those criteria , but they ’ re so broad they could apply to anyone . What does it say about me ? ",no emotion,2
+43,5,9, A Capricorn is serious-minded and practical . She likes to do things in conventional ways . That sounds just like you ! ,happiness,1
+44,6,0,"Frank ’ s getting married , do you believe this ? ",no emotion,2
+45,6,1, Is he really ? ,surprise,2
+46,6,2," Yes , he is . He loves the girl very much . ",no emotion,1
+47,6,3, Who is he marring ? ,no emotion,2
+48,6,4," A girl he met on holiday in Spain , I think . ",no emotion,1
+49,6,5, Have they set a date for the wedding ? ,no emotion,2
+50,6,6, Not yet . ,no emotion,1
+51,7,0,I hear you bought a new house in the northern suburbs . ,no emotion,1
+52,7,1," That ’ s right , we bought it the same day we came on the market . ",no emotion,1
+53,7,2, What kind of house is it ? ,no emotion,2
+54,7,3, It ’ s a wonderful Spanish style . ,happiness,1
+55,7,4," Oh , I love the roof tiles on Spanish style houses . ",happiness,1
+56,7,5, And it ’ s a bargaining . A house like this in river side costs double the price . ,happiness,1
+57,7,6," Great , is it a two bedroom house ? ",happiness,2
+58,7,7," No , it has three bedrooms and three beds , and has a living room with a twelve-foot ceiling . There ’ s a two-car garage . ",no emotion,1
+59,7,8, That ’ s a nice area too . It ’ ll be a good investment for you . ,happiness,1
+60,7,9," Yeas , when will you buy a house ? ",no emotion,2
+61,7,10," Not untill the end of this year , you know , just before my wedding . ",no emotion,1
+62,7,11," Right , congratulations . ",happiness,1
+63,7,12, Thank you . ,happiness,1
+64,8,0,"Hi , Becky , what's up ? ",no emotion,2
+65,8,1," Not much , except that my mother-in-law is driving me up the wall . ",no emotion,1
+66,8,2, What's the problem ? ,no emotion,2
+67,8,3, She loves to nit-pick and criticizes everything that I do . I can never do anything right when she's around . ,no emotion,1
+68,8,4, For example ? ,no emotion,2
+69,8,5," Well , last week I invited her over to dinner . My husband and I had no problem with the food , but if you listened to her , then it would seem like I fed her old meat and rotten vegetables . There's just nothing can please her . ",no emotion,1
+70,8,6," No , I can't see that happening . I know you're a good cook and nothing like that would ever happen . ",no emotion,1
+71,8,7, It's not just that . She also criticizes how we raise the kids . ,no emotion,1
+72,8,8," My mother-in-law used to do the same thing to us . If it wasn't disciplining them enough , then we were disciplining them too much . She also complained about the food we fed them , the schools we sent them too , and everything else under the sun . ",no emotion,1
+73,8,9, You said she used to ? How did you stop her ? ,no emotion,2
