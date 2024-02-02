@@ -1,211 +1,41 @@
-,Dialogue_ID,Utterance_ID,Utterance,Emotion,Act
-0,0,0,"Say , Jim , how about going for a few beers after dinner ? ",no emotion,3
-1,0,1, You know that is tempting but is really not good for our fitness . ,no emotion,4
-2,0,2, What do you mean ? It will help us to relax . ,no emotion,2
-3,0,3, Do you really think so ? I don't . It will just make us fat and act silly . Remember last time ? ,no emotion,2
-4,0,4, I guess you are right.But what shall we do ? I don't feel like sitting at home . ,no emotion,2
-5,0,5, I suggest a walk over to the gym where we can play singsong and meet some of our friends . ,no emotion,3
-6,0,6, That's a good idea . I hear Mary and Sally often go there to play pingpong.Perhaps we can make a foursome with them . ,happiness,4
-7,0,7," Sounds great to me ! If they are willing , we could ask them to go dancing with us.That is excellent exercise and fun , too . ",happiness,1
-8,0,8, Good.Let ' s go now . ,happiness,3
-9,0,9, All right . ,happiness,4
-10,1,0,Can you do push-ups ? ,no emotion,2
-11,1,1," Of course I can . It's a piece of cake ! Believe it or not , I can do 30 push-ups a minute . ",no emotion,1
-12,1,2, Really ? I think that's impossible ! ,surprise,2
-13,1,3, You mean 30 push-ups ? ,no emotion,2
-14,1,4, Yeah ! ,no emotion,1
-15,1,5," It's easy . If you do exercise everyday , you can make it , too . ",no emotion,1
-16,2,0,Can you study with the radio on ? ,no emotion,2
-17,2,1," No , I listen to background music . ",no emotion,1
-18,2,2, What is the difference ? ,no emotion,2
-19,2,3, The radio has too many comerials . ,no emotion,1
-20,2,4," That's true , but then you have to buy a record player . ",no emotion,1
-21,3,0,Are you all right ? ,no emotion,2
-22,3,1, I will be all right soon . I was terrified when I watched them fall from the wire . ,no emotion,1
-23,3,2, Don't worry.He is an acrobat 。 ,no emotion,1
-24,3,3, I see . ,no emotion,1
-25,4,0,"Hey John , nice skates . Are they new ? ",no emotion,2
-26,4,1," Yeah , I just got them . I started playing ice hockey in a community league . So , I finally got myself new skates . ",no emotion,1
-27,4,2, What position do you play ? ,no emotion,2
-28,4,3, I ’ m a defender . It ’ s a lot of fun . You don ’ t have to be able to skate as fast on defense . ,no emotion,1
-29,4,4," Yeah , you ’ re a pretty big guy . I play goalie , myself . ",no emotion,1
-30,4,5," Oh , yeah ? Which team ? ",surprise,2
-31,4,6, The Rockets . ,no emotion,1
-32,4,7," Really ? I think we play you guys next week . Well , I have to go to practice . See you later . ",surprise,3
-33,4,8," All right , see you later . ",no emotion,4
-34,5,0,"Hey Lydia , what are you reading ? ",no emotion,2
-35,5,1," I ’ m looking at my horoscope for this month ! My outlook is very positive . It says that I should take a vacation to someplace exotic , and that I will have a passionate summer fling ! ",happiness,1
-36,5,2, What are you talking about ? Let me see that ... What are horoscopes ? ,no emotion,2
-37,5,3," It ’ s a prediction of your month , based on your zodiac sign . You have a different sign for the month and date you were born in . I was born on April 15th , so I ’ m an Aries . When were you born ? ",no emotion,2
-38,5,4, January 5th . ,no emotion,1
-39,5,5," Let ’ s see . . . you ’ re a Capricorn . It says that you will be feeling stress at work , but you could see new , exciting developments in your love life . Looks like we ’ ll both have interesting summers ! ",happiness,1
-40,5,6," That ’ s bogus . I don't feel any stress at work , and my love life is practically nonexistent . This zodiac stuff is all a bunch of nonsense . ",no emotion,1
-41,5,7," No , it ’ s not , your astrology sign can tell you a lot about your personality . See ? It says that an Aries is energetic and loves to socialize . ",no emotion,1
-42,5,8," Well , you certainly match those criteria , but they ’ re so broad they could apply to anyone . What does it say about me ? ",no emotion,2
-43,5,9, A Capricorn is serious-minded and practical . She likes to do things in conventional ways . That sounds just like you ! ,happiness,1
-44,6,0,"Frank ’ s getting married , do you believe this ? ",no emotion,2
-45,6,1, Is he really ? ,surprise,2
-46,6,2," Yes , he is . He loves the girl very much . ",no emotion,1
-47,6,3, Who is he marring ? ,no emotion,2
-48,6,4," A girl he met on holiday in Spain , I think . ",no emotion,1
-49,6,5, Have they set a date for the wedding ? ,no emotion,2
-50,6,6, Not yet . ,no emotion,1
-51,7,0,I hear you bought a new house in the northern suburbs . ,no emotion,1
-52,7,1," That ’ s right , we bought it the same day we came on the market . ",no emotion,1
-53,7,2, What kind of house is it ? ,no emotion,2
-54,7,3, It ’ s a wonderful Spanish style . ,happiness,1
-55,7,4," Oh , I love the roof tiles on Spanish style houses . ",happiness,1
-56,7,5, And it ’ s a bargaining . A house like this in river side costs double the price . ,happiness,1
-57,7,6," Great , is it a two bedroom house ? ",happiness,2
-58,7,7," No , it has three bedrooms and three beds , and has a living room with a twelve-foot ceiling . There ’ s a two-car garage . ",no emotion,1
-59,7,8, That ’ s a nice area too . It ’ ll be a good investment for you . ,happiness,1
-60,7,9," Yeas , when will you buy a house ? ",no emotion,2
-61,7,10," Not untill the end of this year , you know , just before my wedding . ",no emotion,1
-62,7,11," Right , congratulations . ",happiness,1
-63,7,12, Thank you . ,happiness,1
-64,8,0,"Hi , Becky , what's up ? ",no emotion,2
-65,8,1," Not much , except that my mother-in-law is driving me up the wall . ",no emotion,1
-66,8,2, What's the problem ? ,no emotion,2
-67,8,3, She loves to nit-pick and criticizes everything that I do . I can never do anything right when she's around . ,no emotion,1
-68,8,4, For example ? ,no emotion,2
-69,8,5," Well , last week I invited her over to dinner . My husband and I had no problem with the food , but if you listened to her , then it would seem like I fed her old meat and rotten vegetables . There's just nothing can please her . ",no emotion,1
-70,8,6," No , I can't see that happening . I know you're a good cook and nothing like that would ever happen . ",no emotion,1
-71,8,7, It's not just that . She also criticizes how we raise the kids . ,no emotion,1
-72,8,8," My mother-in-law used to do the same thing to us . If it wasn't disciplining them enough , then we were disciplining them too much . She also complained about the food we fed them , the schools we sent them too , and everything else under the sun . ",no emotion,1
-73,8,9, You said she used to ? How did you stop her ? ,no emotion,2
-74,8,10," We basically sat her down and told her how we felt about her constant criticizing , and how we welcomed her advice but hoped she'd let us do our things . She understood , and now everything is a lot more peaceful . ",no emotion,1
-75,8,11, That sounds like a good idea . I'll have to try that . ,happiness,1
-76,9,0,How are Zina's new programmers working out ? ,no emotion,2
-77,9,1," I hate to admit it , but they're good . And fast . The Filipino kid is a genius . ",no emotion,1
-78,9,2," So you'll make the Stars.com deadline , and have us up and running next week ? ",no emotion,2
-79,9,3," It'll be close , but we'll make it . ",no emotion,1
-80,9,4," Good . After Stars.com starts paying us , we won't need Vikam's cash anymore . ",no emotion,1
-81,9,5," And if we don't need them , we won't need Zina , either . ",no emotion,1
-82,10,0,Do you like cooking ? ,no emotion,2
-83,10,1, Yes . I like cooking very much . I got this hobby when I was 12 years sold . ,happiness,1
-84,10,2, Why do you like it ? ,no emotion,2
-85,10,3, I have no idea . I like cooking by myself . I like to taste delicious food . ,no emotion,1
-86,10,4, That's wonderful ! ,happiness,1
-87,10,5," And I love trying new recipes , which I usually test with my friends . You can come , too . ",no emotion,3
-88,10,6, Really ? I hope I can have a chance to taste it . Don't forget to tell me . ,surprise,4
-89,10,7, Certainly . ,no emotion,1
-90,11,0,Anyone home ? Jen ! ,no emotion,2
-91,11,1, I'm in the kitchen ... let yourself in ! ,no emotion,1
-92,11,2, Wow ! You're really working up a storm ! ,no emotion,1
-93,11,3, I know . I've even worked up a sweat . ,no emotion,1
-94,11,4, You look like a cooking show host--only messier . ,no emotion,1
-95,12,0,You look so tan and healthy ! ,happiness,1
-96,12,1, Thanks . I just got back from summer camp . ,happiness,1
-97,12,2, How was it ? ,no emotion,2
-98,12,3, Great . I got to try so many things for the first time . ,happiness,1
-99,12,4, Like what ? ,no emotion,2
-100,12,5," I went sailing , fishing , and horseback riding . ",no emotion,1
-101,12,6, I ’ m so jealous . ,no emotion,1
-102,12,7, The counselors were so nice too . It was the best summer ever . Except for all those mosquitoes ! ,happiness,1
-103,13,0,"Diana , do you like the perfume I gave you ? ",no emotion,2
-104,13,1," It ’ s good . But to tell you the truth , I don ’ t wear perfume . ",no emotion,1
-105,13,2, I ’ m sorry . I didn ’ t know that . ,no emotion,1
-106,13,3, That ’ s all right . Thank you all the same . ,happiness,1
-107,14,0,"Ah , ah , ah ... ",no emotion,1
-108,14,1," All right , Bill.Here ' s your daily exercise schedule . You are to jog before breakfast . ",no emotion,3
-109,14,2, Jog ? ,no emotion,4
-110,14,3," Then , you are to walk to work . ",no emotion,3
-111,14,4, Walk ? ,no emotion,4
-112,14,5, Thirty minutes in gym at lunch time . ,no emotion,3
-113,14,6, Oh no . ,no emotion,4
-114,14,7," Use the stairs , never the elevator . ",no emotion,3
-115,14,8," Oh , dear . ",no emotion,4
-116,14,9," And three times a week , you can either swim , play racketball , or hand ball . ",no emotion,3
-117,14,10, Oh no . ,no emotion,4
-118,14,11," OK , you can stop now.It ' s time for the dance class . ",no emotion,3
-119,14,12, Dance class ! I don't know how . ,no emotion,4
-120,14,13, You will . ,no emotion,3
-121,14,14, Oh ... ,no emotion,4
-122,15,0,"Hi Bill , I saw your grandma yesterday . ",no emotion,1
-123,15,1, Oh where was that ? ,no emotion,2
-124,15,2, I was running around the track at my college and there she was walking around the same track . ,no emotion,1
-125,15,3, Grannie always tries to stay fit and healthy.She is always making us kids eat the proper foods . ,no emotion,1
-126,15,4," Well , it pays off for her.How old is she anyway ? ",no emotion,2
-127,15,5, She will be 86 next month . ,no emotion,1
-128,15,6, That is truly amazing ! ,surprise,1
-129,16,0,I would like to register for a class today . ,no emotion,3
-130,16,1," No problem , what class would you like to take ? ",no emotion,2
-131,16,2, I would very much enjoy taking a Psychology class.Because I'm crazy . ,no emotion,3
-132,16,3, There are two classes that are still open . ,no emotion,1
-133,16,4, Which days are these classes on ? ,no emotion,2
-134,16,5, The first class is a Tuesday and Thursday class from two to three . ,no emotion,1
-135,16,6, What about the other class ? ,no emotion,2
-136,16,7, The other class is on Monday and Wednesday from 10 am - 12 . ,no emotion,1
-137,16,8, Are you sure there are no more open classes ? ,no emotion,2
-138,16,9, I'm positive . ,no emotion,1
-139,16,10, Sign me up for Monday and Wednesday . ,no emotion,3
-140,16,11," Okay , I'll sign you up . ",no emotion,4
-141,17,0,"Dad , why are you taping the windows ? ",no emotion,2
-142,17,1," Honey , a typhoon is coming . ",no emotion,1
-143,17,2," Really ? Wow , I don't have to go to school tomorrow . ",surprise,1
-144,17,3," Jenny , come and help , we need to prepare more food . ",no emotion,3
-145,17,4, OK . Dad ! I'm coming . ,no emotion,4
-146,18,0,"Hi , my name is Lean , and I'm from Russia . ",no emotion,1
-147,18,1," Nice to meet you , Lean . My name is Alike . I'm from Japan . ",no emotion,1
-148,18,2, To me English is a difficult language . ,no emotion,1
-149,18,3, A second language is always difficult . ,no emotion,1
-150,18,4," True , but English is harder than most . It's a crazy language . ",no emotion,1
-151,18,5, A crazy language ? Why do you say that ? ,surprise,2
-152,18,6, One letter can have several pronunciations and one word can have several meanings . ,no emotion,1
-153,18,7, No wonder you say English is a crazy language . ,no emotion,1
-154,19,0,Can I help you ? ,no emotion,2
-155,19,1," I hope so . I'm looking for some material for a paper I'm writing , and I'm not quite sure where to look . ",no emotion,3
-156,19,2, I'll certainly try to help you . What topic is your paper on ? ,no emotion,2
-157,19,3, My paper is on the influence of television on children . ,no emotion,1
-158,19,4, There are several possible sources you might use for that topic . I suggest you use the computer and the computer will give you a list of every scientific journal that talks about children and television . ,no emotion,3
-159,19,5, Thank you for you help . ,happiness,4
-160,20,0,Here ’ s your hot dog and beer . What happened ? Did I miss anything ? ,no emotion,2
-161,20,1," Yeah , Cal Ripen just hit a home run . ",no emotion,1
-162,20,2, What ’ s the score ? ,no emotion,2
-163,20,3," Well it was 3 to 4 , but Ripen ’ s home run made it 5 to 4 since another player was on first base . ",no emotion,1
-164,20,4, So Baltimore is winning ? ,no emotion,2
-165,20,5, Right . ,happiness,1
-166,20,6, This is a really great place to watch a baseball game . ,happiness,1
-167,20,7," Yeah , there isn ’ t a bad seat in the place . ",happiness,1
-168,20,8," The fans are great here , too . Not like in Philadelphia . ",happiness,1
-169,20,9, It was a great idea to spend a day watching a game . ,happiness,1
-170,20,10," Yeah , it reminds you why they say baseball is America ’ s favorite pastime . ",happiness,1
-171,21,0,How do you like the pizza here ? ,happiness,2
-172,21,1, Perfect . It really hits the spot . ,happiness,1
-173,22,0,Do you have a light ? ,no emotion,2
-174,22,1," Sorry , I don't smoke . ",no emotion,1
-175,23,0,I was scared stiff of giving my first performance . ,fear,1
-176,23,1, Were you ? your performance was excellent . ,happiness,1
-177,23,2, Thank you for your kindly words . ,happiness,1
-178,24,0,Excuse me . Could you please take a picture of us with this camera ? ,no emotion,3
-179,24,1, Sure . Which button do I press to shoot ? ,happiness,2
-180,24,2, This one . ,no emotion,1
-181,24,3, Do I have to focus it ? ,no emotion,2
-182,24,4," No , this is a focus-free camera . All you have to do is point and press the button . ",no emotion,1
-183,24,5, All right . Say cheese ! ,happiness,4
-184,25,0,Every country should face the history . ,no emotion,1
-185,25,1," Yeah , we don ’ t live in the vacuum . We have traditional values and long but different history . ",no emotion,1
-186,25,2," Sometimes , we , human beings , really had done something wrong , so we should admit it at first . ",no emotion,1
-187,25,3, But there is always somebody who wants to turn his back on the true history . ,no emotion,1
-188,25,4," I believe such things won ’ t be realized , just daydreaming . ",no emotion,1
-189,26,0,"Do you like traveling , Kathy ? ",no emotion,2
-190,26,1," I like traveling for pleasure to get places for vacation for instance . But I don ’ t like traveling to work , waiting for buses , or ... ",no emotion,1
-191,26,2, Or getting stuck in traffic jams when you ’ re driving . ,no emotion,1
-192,26,3, Exactly . ,no emotion,1
-193,27,0,Your house is too small . Why not buy a big one . ,no emotion,2
-194,27,1, I do wish I could afford one . ,no emotion,1
-195,27,2, You can get a loan from the bank . You know LPF program provides low cost loans for participants home purchases . ,no emotion,3
-196,27,3, Of course I know that . But don't you notice that the house price is skyrocketing ? ,no emotion,4
-197,28,0,"How do you do , Prof.Smith . ",no emotion,1
-198,28,1," How do you do , Ms . Yang.You speak very good English . ",happiness,1
-199,28,2, Thank you . I begin to like English even when I was a child . ,happiness,1
-200,28,3, Where did you learn it ? ,no emotion,2
-201,28,4," At school , in China.This is my first time to be out of my own country . ",no emotion,1
-202,28,5, It's amazing . ,surprise,1
-203,29,0,Do you want black or white coffee ? ,no emotion,2
-204,29,1," White , please ",no emotion,1
-205,29,2, Look ! there's a Folk concert tomorrow evening . Do you Want to go ? ,no emotion,3
-206,29,3, I don't like Folk music very much . ,no emotion,4
-207,29,4, What kind of music do you like ? ,no emotion,2
-208,29,5, I like classical music . Do you ? ,no emotion,2
-209,29,6, Not very much . Classical music sends me to sleep ,no emotion,1
+	Dialogue_ID	Utterance_ID	Utterance	Emotion	Act
+0	0	0	Say , Jim , how about going for a few beers after dinner ?	no emotion	3
+1	0	1	You know that is tempting but is really not good for our fitness .	no emotion	4
+2	0	2	What do you mean ? It will help us to relax .	no emotion	2
+3	0	3	Do you really think so ? I don't . It will just make us fat and act silly . Remember last time ?	no emotion	2
+4	0	4	I guess you are right.But what shall we do ? I don't feel like sitting at home .	no emotion	2
+5	0	5	I suggest a walk over to the gym where we can play singsong and meet some of our friends .	no emotion	3
+6	0	6	That's a good idea . I hear Mary and Sally often go there to play pingpong.Perhaps we can make a foursome with them .	happiness	4
+7	0	7	Sounds great to me ! If they are willing , we could ask them to go dancing with us.That is excellent exercise and fun , too .	happiness	1
+8	0	8	Good.Let ' s go now .	happiness	3
+9	0	9	All right .	happiness	4
+10	1	0	Can you do push-ups ?	no emotion	2
+11	1	1	Of course I can . It's a piece of cake ! Believe it or not , I can do 30 push-ups a minute .	no emotion	1
+12	1	2	Really ? I think that's impossible !	surprise	2
+13	1	3	You mean 30 push-ups ?	no emotion	2
+14	1	4	Yeah !	no emotion	1
+15	1	5	It's easy . If you do exercise everyday , you can make it , too .	no emotion	1
+16	2	0	Can you study with the radio on ?	no emotion	2
+17	2	1	No , I listen to background music .	no emotion	1
+18	2	2	What is the difference ?	no emotion	2
+19	2	3	The radio has too many comerials .	no emotion	1
+20	2	4	That's true , but then you have to buy a record player .	no emotion	1
+21	3	0	Are you all right ?	no emotion	2
+22	3	1	I will be all right soon . I was terrified when I watched them fall from the wire .	no emotion	1
+23	3	2	Don't worry.He is an acrobat 。	no emotion	1
+24	3	3	I see .	no emotion	1
+25	4	0	Hey John , nice skates . Are they new ?	no emotion	2
+26	4	1	Yeah , I just got them . I started playing ice hockey in a community league . So , I finally got myself new skates .	no emotion	1
+27	4	2	What position do you play ?	no emotion	2
+28	4	3	I ’ m a defender . It ’ s a lot of fun . You don ’ t have to be able to skate as fast on defense .	no emotion	1
+29	4	4	Yeah , you ’ re a pretty big guy . I play goalie , myself .	no emotion	1
+30	4	5	Oh , yeah ? Which team ?	surprise	2
+31	4	6	The Rockets .	no emotion	1
+32	4	7	Really ? I think we play you guys next week . Well , I have to go to practice . See you later .	surprise	3
+33	4	8	All right , see you later .	no emotion	4
+34	5	0	Hey Lydia , what are you reading ?	no emotion	2
+35	5	1	I ’ m looking at my horoscope for this month ! My outlook is very positive . It says that I should take a vacation to someplace exotic , and that I will have a passionate summer fling !	happiness	1
+36	5	2	What are you talking about ? Let me see that ... What are horoscopes ?	no emotion	2
+37	5	3	It ’ s a prediction of your month , based on your zodiac sign . You have a different sign for the month and date you were born in . I was born on April 15th , so I ’ m an Aries . When were you born ?	no emotion	2
+38	5	4	January 5th .	no emotion	1
+39	5	5	Let ’ s see . . . you ’ re a Capricorn . It says that you will be feeling stress at work , but you could see new , exciting developments in your love life . Looks like we ’ ll both have interesting summers !	happiness	1
